@@ -1,0 +1,2 @@
+Les services qui se lancent au demarrage sont les daemons. Ils sont visibles 
+dans /etc/init.d, ou dans /etc/rc0.d/

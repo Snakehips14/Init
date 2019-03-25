@@ -1,0 +1,2 @@
+Cron est un systeme permettant de planifier des taches a horaires reguliers. Il
+se situe dans /etc/init.d/cron

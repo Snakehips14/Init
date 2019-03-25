@@ -1,0 +1,33 @@
+grâce à la commande whois, je peux déduire que
+slash16.org est hébergé par AWS (Amazon Web Service)
+
+----------------------------------------------------
+
+whois slash16.org '8.8.8.8'
+
+Domain Name: SLASH16.ORG
+Registry Domain ID: D171286063-LROR
+Registrar WHOIS Server: whois.bookmyname.com
+Registrar URL: https://www.bookmyname.com
+Updated Date: 2019-03-05T04:40:21Z
+Creation Date: 2014-03-03T23:31:09Z
+Registry Expiry Date: 2020-03-03T23:31:09Z
+Registrar Registration Expiration Date:
+Registrar: Online SAS
+Registrar IANA ID: 74
+Registrar Abuse Contact Email: abuse+org@bookmyname.com
+Registrar Abuse Contact Phone: +33.184130099
+Reseller:
+Domain Status: clientHold https://icann.org/epp#clientHold
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: autoRenewPeriod https://icann.org/epp#autoRenewPeriod
+Registrant Organization:
+Registrant State/Province:
+Registrant Country: FR
+===============> Name Server: NS-1236.AWSDNS-26.ORG
+===============> Name Server: NS-144.AWSDNS-18.COM
+===============> Name Server: NS-686.AWSDNS-21.NET
+===============> Name Server: NS-1989.AWSDNS-56.CO.UK
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form https://www.icann.org/wicf/)
+>>> Last update of WHOIS database: 2019-03-13T16:45:46Z <<<

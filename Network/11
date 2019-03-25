@@ -1,0 +1,3 @@
+le NAT permet la traduction d'addresses IP internes vers une addresse publique et inversement.
+Ainsi c'est cette interface qui relie l'hote d'un reseau donné au reste du réseau internet
+nat-1 (10.60.1.11)
