@@ -1,5 +1,6 @@
 Pour se connecter en tant que nouvel utilisateur en session graphique, il faut
-se deconnecter puis se reconnecter avec les identifiants du nouvel utilisateur
+se deconnecter puis se reconnecter avec les identifiants du nouvel utilisateur, 
+ou avec la commande 'su username'.
 ------------------------------------------------------------------------------
 Pour se connecter en tant que nouvel utilisateur en session ssh, il faut 
-utiliser la commande "login@ip.serveur -p portadress"
+utiliser la commande "login@ip.serveur -p port".

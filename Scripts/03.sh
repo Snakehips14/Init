@@ -1,7 +1,6 @@
 #!/bin/bash
 
-echo "Voulez-vous voir le nombre de users connectes et le nombre de processus ? Y/N : "
-read yn
+read -p "Voulez-vous voir le nombre de users connectes et le nombre de processus ? Y/N : " yn
 if [ "$yn" = "y" ] || [ "$yn" = "Y" ]; then
 	echo "Nb de users connectes :"
 	users | wc -l | cut -c8

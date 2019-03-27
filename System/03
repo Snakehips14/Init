@@ -1,3 +1,2 @@
 Pour rendre la modification permanente, il faut supprimer l'ancien hostname
-dans le fichier /etc/hostname puis le remplacer en utilisant cette commande :
-sudo sh -c "mon_nom" > /etc/hostname
+dans le fichier /etc/hostname puis le remplacer par le nouveau.

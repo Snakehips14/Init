@@ -1,1 +1,1 @@
-ifconfig | grep broadcast | cut -c37-85
+ifconfig | grep broadcast | cut -c36-85

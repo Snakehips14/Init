@@ -1,1 +1,1 @@
-sudo useradd identifiant_utilisateur [options]
+sudo adduser identifiant_utilisateur
